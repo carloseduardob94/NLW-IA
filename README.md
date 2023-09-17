@@ -27,7 +27,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react
 <img align="left" src="https://avatars.githubusercontent.com/carloseduardob94?size=100">
 
 Feito com ❤️ por [C. Eduardo](https://github.com/carloseduardob94)! <br>
-🛠 FrontEnd Developer Jr. <br>
+🛠 Software Developer <br>
 📍 Fortaleza - Brasil <br> 
 
 <a href="https://www.linkedin.com/in/carlos-eduardo-lima-lira-barbosa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20"></a>&nbsp;
